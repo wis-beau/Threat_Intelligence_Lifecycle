@@ -43,3 +43,26 @@ This toolkit is ideal for:
 ├── 4_Analysis/
 ├── 5_Dissemination/
 └── 6_Feedback/
+```
+
+> Each stage folder includes both a Word document and a visual.
+
+---
+
+## 💡 How to Use
+
+1. Use the visuals in presentations, workshops, or LinkedIn posts.
+2. Edit the `.docx` files to include case studies or custom workflows.
+3. Reference this structure in your GitHub portfolio to demonstrate understanding of the CTI lifecycle.
+
+---
+
+## 🔄 Contributing
+
+Have suggestions? Want to add more real-world case studies or frameworks? Open a pull request or start a discussion.
+
+---
+
+## 📌 License
+
+This material is provided for **educational and non-commercial use**. Attribution is appreciated.
