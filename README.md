@@ -16,6 +16,7 @@ This repository includes documentation and visuals for each of the six lifecycle
 | 4. Analysis     | `4_Analysis/`           | Mapping to MITRE ATT&CK, Diamond Model visuals          |
 | 5. Dissemination| `5_Dissemination/`      | Audience-based intelligence format matrix               |
 | 6. Feedback     | `6_Feedback/`           | Metrics dashboard showing feedback and refinement       |
+| summary         |summary Case_Study_Overview/ | Threat_Intelligence_Cycle_Case_Study_Story          |
 
 Each folder includes:
 - A `.docx` file for explanations and key talking points.
