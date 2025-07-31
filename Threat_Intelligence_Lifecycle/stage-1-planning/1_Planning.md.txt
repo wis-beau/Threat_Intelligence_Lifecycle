@@ -1,0 +1,17 @@
+## Stage 1: Planning & Direction
+
+### Purpose
+Define the intelligence requirements and align them with organizational goals.
+
+### Visual
+![Planning Questions](1_Planning_Questions.png)
+
+### Case Study: Healthcare Organization
+A mid-sized healthcare organization analyzed past incidents and found that 80% were phishing-related. 
+They set the intelligence requirement to focus on phishing tactics, targeting high-volume departments such as HR and Finance.
+This stage led them to prioritize email-based Indicators of Compromise (IOCs) instead of collecting generic threat feeds.
+
+### Scoping Questions
+- What assets are most valuable?
+- What types of threats have impacted us?
+- Are there known threat actors targeting our industry?
