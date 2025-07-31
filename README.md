@@ -44,6 +44,7 @@ This toolkit is ideal for:
 ├── 4_Analysis/
 ├── 5_Dissemination/
 └── 6_Feedback/
+└── summary Case_Study_Overview/
 ```
 
 > Each stage folder includes both a Word document and a visual.
